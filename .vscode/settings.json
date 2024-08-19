@@ -12,6 +12,7 @@
         "gzerr",
         "gzmsg",
         "gzwarn",
+        "implemente",
         "Imutable",
         "Inertiald",
         "multicopter",
@@ -22,6 +23,7 @@
         "Quadrotor",
         "Quaterniond",
         "renabled",
+        "SAMPLESYSTEM",
         "vectorizable",
         "vels"
     ]
