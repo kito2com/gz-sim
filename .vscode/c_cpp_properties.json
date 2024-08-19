@@ -7,7 +7,7 @@
       },
       "includePath": [
         "/opt/ros/humble/include/**",
-        "/home/user/kito2com/gz-sim/include/**",
+        "/home/user/gz-sim/include/**",
         "/usr/include/**"
       ],
       "name": "ROS",
