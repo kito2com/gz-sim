@@ -6,11 +6,12 @@
         "limitSymbolsToIncludedHeaders": false
       },
       "includePath": [
-        "/opt/ros/humble/include/**",
         "/home/user/gz-sim/include/**",
-        "/usr/include/**"
+        "/usr/include/gz/**",
+        "/usr/include/**",
+        "/opt/ros/humble/include/**"
       ],
-      "name": "ROS",
+      "name": "Linux",
       "intelliSenseMode": "gcc-x64",
       "compilerPath": "/usr/bin/gcc",
       "cStandard": "gnu11",
