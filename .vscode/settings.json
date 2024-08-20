@@ -8,6 +8,8 @@
         "/opt/ros/humble/local/lib/python3.10/dist-packages"
     ],
     "cSpell.words": [
+        "Agüero",
+        "createsystemplugins",
         "Eigen",
         "gzerr",
         "gzmsg",
@@ -23,6 +25,7 @@
         "Quadrotor",
         "Quaterniond",
         "renabled",
+        "reseted",
         "SAMPLESYSTEM",
         "vectorizable",
         "vels"
